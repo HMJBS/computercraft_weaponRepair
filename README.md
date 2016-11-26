@@ -1,0 +1,3 @@
+# computercraft_weaponRepair
+Program for Computercraft crafty turtle
+OpenCCSensorのInventorySensorを試す
